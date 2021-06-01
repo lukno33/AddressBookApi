@@ -1,0 +1,12 @@
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\bin\Debug\net5.0\AddressBook.Data.deps.json
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\bin\Debug\net5.0\AddressBook.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\bin\Debug\net5.0\ref\AddressBook.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\bin\Debug\net5.0\AddressBook.Data.pdb
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\ref\AddressBook.Data.dll
+C:\Users\lukas\OneDrive\Pulpit\praktyki studenckie oraz CV\CV Pitney\CV po angielsku na staż\Recruitment task\AddressBookApi\AddressBook.Data\obj\Debug\net5.0\AddressBook.Data.pdb
